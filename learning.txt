@@ -1,4 +1,5 @@
-What i have learned in this course 
+What I have learned from this course
+
 I learn how to sign up for github
 I learn basic git command from alx
 I learn how to create a respository and commit changes
